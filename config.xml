@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>envoimoinscher</name>
+    <displayName><![CDATA[Boxtal]]></displayName>
+    <version><![CDATA[3.3.6]]></version>
+    <description><![CDATA[Offer your customers a choice of delivery methods to increase your sales]]></description>
+    <author><![CDATA[Boxtal]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
